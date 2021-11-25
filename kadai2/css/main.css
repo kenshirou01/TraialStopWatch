@@ -1,0 +1,43 @@
+body, div, h3, button {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+button {
+    cursor: pointer;
+}
+
+.continner {
+    width: 50%;
+    border: solid;
+    border-width: 8px;
+    border-color: #dcdcdc;
+    margin: 0 auto;
+}
+
+.content {
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.continner h3 {
+    margin: 10px 0;
+}
+
+#timer {
+    font-size: 30px;
+    letter-spacing: 10px;
+    padding: 20px
+}
+
+.buttons {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.button_width {
+    padding: 10px;
+}

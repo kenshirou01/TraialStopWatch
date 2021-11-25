@@ -1,0 +1,15 @@
+2021-11-21 08:33:04 [ERROR]: log level: info
+2021-11-21 08:33:04 [INFO]: Retrieving AWS endpoint data
+2021-11-21 08:33:04 [INFO]: OS:  Linux x64 4.14.252-195.483.amzn2.x86_64
+2021-11-21 08:33:04 [INFO]: AWS Cloud9 Extension Host Version:  1.44.2AWS Toolkit Version:  1.33.0
+2021-11-21 08:33:04 [INFO]: telemetry cache not found: '/home/ec2-user/environment/.c9/amazonwebservices.aws-toolkit-vscode/telemetryCache'
+2021-11-21 08:33:04 [ERROR]: Error loading resource from /home/ec2-user/environment/.c9/amazonwebservices.aws-toolkit-vscode/cloudformation.schema.json: [Error: ENOENT: no such file or directory, open '/home/ec2-user/environment/.c9/amazonwebservices.aws-toolkit-vscode/cloudformation.schema.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/ec2-user/environment/.c9/amazonwebservices.aws-toolkit-vscode/cloudformation.schema.json'
+}
+2021-11-21 08:33:04 [ERROR]: Could not refresh schemas:
+2021-11-21 08:38:05 [INFO]: telemetry: sent batch (size=2)
+2021-11-21 08:55:05 [INFO]: autoconnect: connected: 'profile:default'
+2021-11-21 08:58:06 [INFO]: telemetry: sent batch (size=3)
